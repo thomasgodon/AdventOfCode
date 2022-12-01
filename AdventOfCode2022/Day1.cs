@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AdventOfCode2022
 {
-    internal class Day1
+    internal class Day1 : DayBase
     {
-        public Day1()
+        public Day1() : base(1)
         {
             var elves = new List<int>();
             var amount = 0;
@@ -38,5 +38,6 @@ namespace AdventOfCode2022
 
             Console.WriteLine($"Top3 calories: {sumTop3Calories}");
         }
+
     }
 }

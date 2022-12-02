@@ -68,5 +68,116 @@ namespace AdventOfCode2022.Properties {
                 return ResourceManager.GetString("InputDay1", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to B Z
+        ///A Z
+        ///B Z
+        ///C Z
+        ///C Z
+        ///B X
+        ///A X
+        ///C X
+        ///A Z
+        ///C Y
+        ///C X
+        ///C Y
+        ///C Y
+        ///A X
+        ///A Z
+        ///A Z
+        ///A X
+        ///B Z
+        ///B X
+        ///A Z
+        ///A X
+        ///C Y
+        ///A X
+        ///B Z
+        ///B Z
+        ///A X
+        ///C Z
+        ///A Z
+        ///A X
+        ///B Z
+        ///A Z
+        ///A Y
+        ///C Y
+        ///A Z
+        ///C Z
+        ///A Z
+        ///C Y
+        ///C Z
+        ///C Z
+        ///A Z
+        ///A X
+        ///A X
+        ///B X
+        ///A Z
+        ///B Z
+        ///A X
+        ///A Z
+        ///A Z
+        ///A X
+        ///A X
+        ///C Y
+        ///A Z
+        ///B X
+        ///C Y
+        ///A X
+        ///B Y
+        ///A Z
+        ///A X
+        ///A Z
+        ///A X
+        ///C Z
+        ///A Z
+        ///A Y
+        ///A X
+        ///C Y
+        ///A X
+        ///B X
+        ///A X
+        ///A Z
+        ///C Y
+        ///A Z
+        ///A X
+        ///C X
+        ///C Z
+        ///C Z
+        ///A Z
+        ///A X
+        ///A Z
+        ///C X
+        ///C Z
+        ///B Z
+        ///A Z
+        ///C Y
+        ///C Z
+        ///B X
+        ///A X
+        ///A Z
+        ///A X
+        ///A X
+        ///C Y
+        ///A Z
+        ///C Z
+        ///B X
+        ///A X
+        ///A X
+        ///A Z
+        ///A Y
+        ///A X
+        ///C X
+        ///A Z
+        ///B X
+        ///C Y
+        ///A  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string InputDay2 {
+            get {
+                return ResourceManager.GetString("InputDay2", resourceCulture);
+            }
+        }
     }
 }

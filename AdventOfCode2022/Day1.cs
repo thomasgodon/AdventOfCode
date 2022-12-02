@@ -38,6 +38,5 @@ namespace AdventOfCode2022
 
             Console.WriteLine($"Top3 calories: {sumTop3Calories}");
         }
-
     }
 }

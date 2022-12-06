@@ -251,5 +251,56 @@ namespace AdventOfCode2022.Properties {
                 return ResourceManager.GetString("InputDay4", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to [V]     [B]                     [C]
+        ///[C]     [N] [G]         [W]     [P]
+        ///[W]     [C] [Q] [S]     [C]     [M]
+        ///[L]     [W] [B] [Z]     [F] [S] [V]
+        ///[R]     [G] [H] [F] [P] [V] [M] [T]
+        ///[M] [L] [R] [D] [L] [N] [P] [D] [W]
+        ///[F] [Q] [S] [C] [G] [G] [Z] [P] [N]
+        ///[Q] [D] [P] [L] [V] [D] [D] [C] [Z]
+        /// 1   2   3   4   5   6   7   8   9.
+        /// </summary>
+        internal static string InputDay51 {
+            get {
+                return ResourceManager.GetString("InputDay51", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to move 1 from 9 to 2
+        ///move 4 from 6 to 1
+        ///move 4 from 2 to 6
+        ///move 5 from 8 to 7
+        ///move 4 from 9 to 2
+        ///move 1 from 5 to 8
+        ///move 1 from 3 to 1
+        ///move 2 from 3 to 1
+        ///move 1 from 4 to 2
+        ///move 11 from 7 to 2
+        ///move 5 from 5 to 1
+        ///move 1 from 6 to 8
+        ///move 1 from 7 to 6
+        ///move 3 from 6 to 7
+        ///move 1 from 3 to 2
+        ///move 1 from 6 to 8
+        ///move 11 from 2 to 1
+        ///move 1 from 9 to 8
+        ///move 1 from 3 to 7
+        ///move 4 from 7 to 9
+        ///move 3 from 3 to 7
+        ///move 4 from 8 to 2
+        ///move 3 from 7 to 6
+        ///move 2 from 6 to 3
+        ///move 5 from 4 to 1
+        ///move 1 fro [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string InputDay52 {
+            get {
+                return ResourceManager.GetString("InputDay52", resourceCulture);
+            }
+        }
     }
 }

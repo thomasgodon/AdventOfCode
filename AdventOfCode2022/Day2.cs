@@ -81,7 +81,7 @@ namespace AdventOfCode2022
         }
     }
 
-    internal static class Extensions
+    internal static partial class Extensions
     {
         public static int ToPoints(this string letter)
         {

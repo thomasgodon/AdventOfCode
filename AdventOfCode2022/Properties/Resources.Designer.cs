@@ -311,5 +311,55 @@ namespace AdventOfCode2022.Properties {
                 return ResourceManager.GetString("InputDay6", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to $ cd /
+        ///$ ls
+        ///233998 glh.fcb
+        ///184686 jzn
+        ///dir qcznqph
+        ///dir qtbprrq
+        ///299692 rbssdzm.ccn
+        ///dir vtb
+        ///$ cd qcznqph
+        ///$ ls
+        ///32148 lhsrj.fnr
+        ///dir lnj
+        ///dir mtr
+        ///dir mznnlph
+        ///dir pdtpt
+        ///24836 rsjcg.lrh
+        ///dir vrj
+        ///dir wrqcfl
+        ///$ cd lnj
+        ///$ ls
+        ///12592 tlh
+        ///$ cd ..
+        ///$ cd mtr
+        ///$ ls
+        ///118870 twdhlmp.gbw
+        ///$ cd ..
+        ///$ cd mznnlph
+        ///$ ls
+        ///240977 fmmhnhtf
+        ///dir gbhcnts
+        ///dir gsbjrrd
+        ///dir pmwcs
+        ///dir qtbprrq
+        ///286007 rhnjndsq.gst
+        ///dir twdhlmp
+        ///283716 twdhlmp.rpr
+        ///$ cd gbhcnts
+        ///$ ls
+        ///dir fctrnwb
+        ///dir gbhcnts
+        ///46017 gft.hvm
+        ///234925 gjsnzbtw [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string InputDay7 {
+            get {
+                return ResourceManager.GetString("InputDay7", resourceCulture);
+            }
+        }
     }
 }
